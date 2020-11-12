@@ -1,2 +1,2 @@
 # SortingVisualizer
-created a visualizer for various sorting algorithms through the PyGame GUI.
+created a visualizer in Python for various sorting algorithms through the PyGame GUI.
